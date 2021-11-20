@@ -1,37 +1,42 @@
 {
-    "name": "urara-vscode",
-    "displayName": "Urara",
-    "publisher": "haxibami",
-    "description": "A japanese & pastel colored theme",
-    "version": "0.0.1",
-    "icon": "icon.png",
-    "engines": {
-        "vscode": "^1.62.0"
-    },
-    "galleryBanner": {
-        "color": "#211921",
-        "theme": "dark"
-    },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/haxibami/urara-vscode"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "keywords": [
-      "theme",
-      "pastel",
-      "dark",
-      "japanese"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Urara",
-                "uiTheme": "vs-dark",
-                "path": "./themes/urara-color-theme.json"
-            }
-        ]
-    }
+	"name": "urara-vscode",
+	"displayName": "Urara",
+	"publisher": "haxibami",
+	"description": "A japanese & pastel colored theme",
+	"version": "0.0.1",
+	"icon": "icon.png",
+	"engines": {
+		"vscode": "^1.62.0"
+	},
+	"galleryBanner": {
+		"color": "#211921",
+		"theme": "dark"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/haxibami/urara-vscode"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"theme",
+		"pastel",
+		"dark",
+		"japanese"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Urara",
+				"uiTheme": "vs-dark",
+				"path": "./themes/urara-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "bea705eb-9e88-416b-a05e-55b50cdb917b",
+		"publisherDisplayName": "haxibami",
+		"publisherId": "1d6d1088-2759-4340-8205-52d790ad4fec"
+	}
 }
